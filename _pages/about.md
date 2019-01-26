@@ -24,6 +24,8 @@ I have built a wide variety of software, from web applications to virtual realit
  - *Cross-platform* means software that runs on a variety of hardware. Think the same app running on iOS, Android, Windows, macOS, etc.
  - *Graphically intensive* means software that renders pictures to a screen. Think video games, drawing applications, or virtual reality.
 
+You can see some of my work at: [Artificial Natures](http://artificialnatures.com/)
+
 What development languages and platforms does Aaron use?
 ------
 Over my career as a programmer, I've learned a lot of languages: HTML, CSS, JavaScript, Java, C, C++, Visual Basic, PHP, Python, Ruby, C#, and a few others. I've also used a variety of development platforms like Google Cloud Platform, Amazon Web Services, and Microsoft Azure for web apps; Unity, Unreal, and several open source OpenGL frameworks for game development; and a host of desktop and mobile UI frameworks like Cocoa (iOS), Android, WPF, UWP, and Xamarin.
