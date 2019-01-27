@@ -19,5 +19,5 @@ If you are interested in working with me, this is a good place to start. It desc
 [Resume](/resume/)
 This is my up-to-date resumé, tailored to the software development industry.
 
-[Experience](/experience/)
+[Experience](/cv/)
 You can review all of my professional experience here.
