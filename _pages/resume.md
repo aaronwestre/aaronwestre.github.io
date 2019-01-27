@@ -6,7 +6,9 @@ redirect_from:
 ---
 
 Generalist Software Developer, 20+ years experience
+
 *Specializing in graphics intensive, cross-platform, native application programming*
+
 *Helping teams perform through intensive collaboration, solid architecture and automated testing*
 
 Recent Professional Experience
