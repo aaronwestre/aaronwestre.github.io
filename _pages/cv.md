@@ -60,7 +60,7 @@ Work Experience
 
 2018 - Present
 ------
-**Senior Software Engineer.** Trane (Ingersoll Rand). White Bear Lake, MN.
+**Senior Software Engineer.** 3M. St. Paul, MN.
 
 2016 - 2018
 ------
