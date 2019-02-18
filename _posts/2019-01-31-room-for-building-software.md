@@ -1,11 +1,12 @@
 ---
 title: 'A Room for Building Software'
-date: 2019-01-31
+date: 2019-02-25
 permalink: /room-for-building-software/
 tags:
   - programming
   - design
   - collaboration
+  - architecture
 ---
 
 Only once in my entire career as a programmer have I been granted a resonable space in which to do my work. I only had access to this space as long as the job lasted, a few, brief, blissful years. It looked like this:
