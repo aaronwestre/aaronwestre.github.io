@@ -18,3 +18,14 @@ That's right. Your eyes are not deceiving you. It's a regular, boring office. It
  - open offices
  - extreme programming
  - ...
+
+Abstract
+
+We will be taking a brief excursion through the topic of architecture. I want to explore our relationship, not with software architecture, but with the spaces in which we build software. I love to complain about dismal cubicle farms and distracting open plan offices, but can I imagine a better alternative?
+
+I will show some examples, past and present, of spaces that allow for both collaboration and focused work. Then I will talk about how a space can help software teams design and program in more effective ways. Finally we will prototype our own work spaces by breaking the most frustrating, implicit rule of corporate offices: please don't rearrange the furniture.
+
+Bio
+
+Aaron Westre is a programmer/educator/artist working at the intersection of design and technology. His company, Artificial Natures, helps creative people find new expressive capabilities with technology.
+http://artificialnatures.com/
